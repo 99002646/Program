@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1600384469 source:c:\users\training\desktop\account\account.cpp
+	<iostream>
+	"pch.h"
+
+1600384517 c:\users\training\desktop\account\pch.h
+	<string>
+	"gtest/gtest.h"
+
+1600384426 source:c:\users\training\desktop\account\account_test.cpp
+	"pch.h"
+
+1600384469 source:c:\users\training\desktop\finalc\set-1\account\account.cpp
+	<iostream>
+	"pch.h"
+
+1600384517 c:\users\training\desktop\finalc\set-1\account\pch.h
+	<string>
+	"gtest/gtest.h"
+
+1600384426 source:c:\users\training\desktop\finalc\set-1\account\account_test.cpp
+	"pch.h"
+

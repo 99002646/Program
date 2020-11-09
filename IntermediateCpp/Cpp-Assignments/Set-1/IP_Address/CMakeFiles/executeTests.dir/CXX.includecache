@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Downloads/FinalC/s1/IP_Address/IP_Address.cpp
+iostream
+-
+string
+-
+IP_Address.h
+/home/user/Downloads/FinalC/s1/IP_Address/IP_Address.h
+
+/home/user/Downloads/FinalC/s1/IP_Address/IP_Address.h
+string
+-
+gtest/gtest.h
+-
+
+/home/user/Downloads/FinalC/s1/IP_Address/IP_Address_test.cpp
+IP_Address.cpp
+/home/user/Downloads/FinalC/s1/IP_Address/IP_Address.cpp
+gtest/gtest.h
+-
+

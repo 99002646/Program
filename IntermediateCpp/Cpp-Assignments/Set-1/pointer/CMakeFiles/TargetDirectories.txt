@@ -1,0 +1,3 @@
+/home/user/Downloads/FinalC/s1/pointer/CMakeFiles/rebuild_cache.dir
+/home/user/Downloads/FinalC/s1/pointer/CMakeFiles/edit_cache.dir
+/home/user/Downloads/FinalC/s1/pointer/CMakeFiles/executeTests.dir

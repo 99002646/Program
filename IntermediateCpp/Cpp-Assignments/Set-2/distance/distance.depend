@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600660870 source:c:\users\training\desktop\finalc\set-2\distance\distance.cpp
+	"distance.h"
+
+1600660828 c:\users\training\desktop\finalc\set-2\distance\distance.h
+	"gtest/gtest.h"
+
+1600660846 source:c:\users\training\desktop\finalc\set-2\distance\distance_test.cpp
+	"distance.h"
+

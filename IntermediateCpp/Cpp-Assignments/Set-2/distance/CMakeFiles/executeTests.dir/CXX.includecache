@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Downloads/FinalC/s2/distance/distance.cpp
+distance.h
+/home/user/Downloads/FinalC/s2/distance/distance.h
+
+/home/user/Downloads/FinalC/s2/distance/distance.h
+gtest/gtest.h
+/home/user/Downloads/FinalC/s2/distance/gtest/gtest.h
+
+/home/user/Downloads/FinalC/s2/distance/distance_test.cpp
+distance.cpp
+/home/user/Downloads/FinalC/s2/distance/distance.cpp
+gtest/gtest.h
+-
+

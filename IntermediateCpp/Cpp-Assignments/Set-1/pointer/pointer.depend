@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1600498265 source:c:\users\training\desktop\pointer\pointer.cc
+	<iostream>
+	"pointer.h"
+	<math.h>
+
+1600498199 c:\users\training\desktop\pointer\pointer.h
+	<iostream>
+	<math.h>
+
+1600498268 source:c:\users\training\desktop\pointer\pointer_test.cc
+	<iostream>
+	"pointer.h"
+	<gtest/gtest.h>
+
+1600498265 source:c:\users\training\desktop\finalc\set-1\pointer\pointer.cc
+	<iostream>
+	"pointer.h"
+	<math.h>
+
+1600498199 c:\users\training\desktop\finalc\set-1\pointer\pointer.h
+	<iostream>
+	<math.h>
+
+1600498268 source:c:\users\training\desktop\finalc\set-1\pointer\pointer_test.cc
+	<iostream>
+	"pointer.h"
+	<gtest/gtest.h>
+

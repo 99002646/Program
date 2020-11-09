@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1600488484 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\ip_address\ip_address.cpp
+	<iostream>
+	<string>
+	"IP_Address.h"
+
+1600488428 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\ip_address\ip_address.h
+	<string>
+
+1600488628 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\ip_address\ip_address_test.cpp
+	"ip_address.h"
+	<gtest/gtest.h>
+
+1601007599 source:c:\users\training\desktop\ip_address\ip_address.cpp
+	<iostream>
+	<string>
+	"IP_Address.h"
+
+1601007599 c:\users\training\desktop\ip_address\ip_address.h
+	<string>
+
+1601007599 source:c:\users\training\desktop\ip_address\ip_address_test.cpp
+	"ip_address.h"
+	<gtest/gtest.h>
+

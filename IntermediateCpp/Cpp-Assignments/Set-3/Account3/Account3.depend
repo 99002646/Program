@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1600842368 source:c:\users\temp.bltsp00242.000\desktop\account3\account3.cpp
+	<iostream>
+	"account3.h"
+	"creditacc.h"
+	"savingsacc.h"
+
+1600841670 c:\users\temp.bltsp00242.000\desktop\account3\account3.h
+	<string>
+
+1600840152 c:\users\temp.bltsp00242.000\desktop\account3\creditacc.h
+	<string>
+	"account3.h"
+
+1600840150 c:\users\temp.bltsp00242.000\desktop\account3\savingsacc.h
+	<string>
+	"account3.h"
+
+1600840175 source:c:\users\temp.bltsp00242.000\desktop\account3\account3test.cpp
+	<gtest/gtest.h>
+	"account3.h"
+	"creditacc.h"
+	"savingsacc.h"
+

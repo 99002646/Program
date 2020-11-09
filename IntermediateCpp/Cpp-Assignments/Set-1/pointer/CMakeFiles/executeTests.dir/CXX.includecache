@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Downloads/FinalC/s1/pointer/pointer.cc
+iostream
+-
+pointer.h
+/home/user/Downloads/FinalC/s1/pointer/pointer.h
+math.h
+-
+
+/home/user/Downloads/FinalC/s1/pointer/pointer.h
+iostream
+-
+math.h
+-
+gtest/gtest.h
+-
+
+/home/user/Downloads/FinalC/s1/pointer/pointer_test.cc
+iostream
+-
+pointer.cc
+/home/user/Downloads/FinalC/s1/pointer/pointer.cc
+gtest/gtest.h
+-
+

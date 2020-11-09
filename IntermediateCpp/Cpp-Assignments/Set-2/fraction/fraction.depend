@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600661257 source:c:\users\training\desktop\finalc\set-2\fraction\fraction.cpp
+	"fraction.h"
+
+1600661182 c:\users\training\desktop\finalc\set-2\fraction\fraction.h
+	"gtest/gtest.h"
+
+1600661246 source:c:\users\training\desktop\finalc\set-2\fraction\fraction_test.cpp
+	"fraction.h"
+

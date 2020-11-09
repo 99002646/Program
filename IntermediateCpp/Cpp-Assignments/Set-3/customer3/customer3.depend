@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1600843252 source:c:\users\temp.bltsp00242.000\desktop\customer3\customer3test.cpp
+
+1600843390 source:c:\users\temp.bltsp00242.000\desktop\customer3\customer3.cpp
+	"customer3.h"
+	<iostream>
+	"postpaid.h"
+	"prepaid.h"
+	"postpaid.h"
+	"prepaid.h"
+
+1600842775 c:\users\temp.bltsp00242.000\desktop\customer3\customer3.h
+	<string>
+	<cstdint>
+
+1600843261 c:\users\temp.bltsp00242.000\desktop\customer3\postpaid.h
+	<string>
+	<cstdint>
+	"customer3.h"
+
+1600843272 c:\users\temp.bltsp00242.000\desktop\customer3\prepaid.h
+	<string>
+	<cstdint>
+	"customer3.h"
+

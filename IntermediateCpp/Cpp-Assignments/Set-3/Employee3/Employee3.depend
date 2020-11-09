@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1600841940 source:c:\users\temp.bltsp00242.000\desktop\employee3\employee3test.cpp
+	"employee3.h"
+	"manager.h"
+	"trainee.h"
+	"engg.h"
+	<gtest/gtest.h>
+
+1600841752 c:\users\temp.bltsp00242.000\desktop\employee3\employee3.h
+	<string>
+
+1600841038 c:\users\temp.bltsp00242.000\desktop\employee3\manager.h
+	"employee3.h"
+	<string>
+
+1600841069 c:\users\temp.bltsp00242.000\desktop\employee3\trainee.h
+	"employee3.h"
+	<string>
+
+1600841007 c:\users\temp.bltsp00242.000\desktop\employee3\engg.h
+	<string>
+	"employee3.h"
+

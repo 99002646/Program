@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1600844510 source:c:\users\temp.bltsp00242.000\desktop\shape3\shape3.cpp
+	<iostream>
+	"triangle.h"
+	"polygon.h"
+	"shape3.h"
+	<math.h>
+	"rectangle.h"
+	"shape3.h"
+	"circle.h"
+
+1600844349 c:\users\temp.bltsp00242.000\desktop\shape3\triangle.h
+	"polygon.h"
+
+1600844451 c:\users\temp.bltsp00242.000\desktop\shape3\polygon.h
+	"shape3.h"
+
+1600844502 c:\users\temp.bltsp00242.000\desktop\shape3\shape3.h
+
+1600844396 c:\users\temp.bltsp00242.000\desktop\shape3\rectangle.h
+	"polygon.h"
+
+1600844451 c:\users\temp.bltsp00242.000\desktop\shape3\circle.h
+	"shape3.h"
+
+1600844517 source:c:\users\temp.bltsp00242.000\desktop\shape3\shape3test.cpp
+	<gtest/gtest.h>
+	"triangle.h"
+	"polygon.h"
+	"shape3.h"
+	<math.h>
+	"rectangle.h"
+	"circle.h"
+

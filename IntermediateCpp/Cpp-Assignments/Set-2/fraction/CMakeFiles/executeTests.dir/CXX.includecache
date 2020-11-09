@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Downloads/FinalC/s2/fraction/fraction.cpp
+fraction.h
+/home/user/Downloads/FinalC/s2/fraction/fraction.h
+
+/home/user/Downloads/FinalC/s2/fraction/fraction.h
+gtest/gtest.h
+/home/user/Downloads/FinalC/s2/fraction/gtest/gtest.h
+
+/home/user/Downloads/FinalC/s2/fraction/fraction_test.cpp
+fraction.h
+/home/user/Downloads/FinalC/s2/fraction/fraction.h
+fraction.cpp
+/home/user/Downloads/FinalC/s2/fraction/fraction.cpp
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600985769 source:c:\users\training\desktop\currency\pch.cpp
+	"pch.h"
+
+1600985797 c:\users\training\desktop\currency\pch.h
+	"gtest/gtest.h"
+
+1600985822 source:c:\users\training\desktop\currency\test.cpp
+	"pch.h"
+
