@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1601868107 source:c:\users\training\documents\minproj\blood_test.cc
+	"Donors.h"
+	"Bloodgrp.h"
+	"Blooddb.h"
+	<gtest/gtest.h>
+
+1601868107 st.h>
+
+1601868102 c:\users\training\documents\minproj\donors.h
+	<string>
+	<iostream>
+
+1601868104 
+
+1601868106 c:\users\training\documents\minproj\bloodgrp.h
+	<iostream>
+	"Donors.h"
+
+1601888824 c:\users\training\documents\minproj\blooddb.h
+	"Donors.h"
+	"Bloodgrp.h"
+	<list>
+	<iterator>
+
+1601888947 source:c:\users\training\documents\minproj\blooddb.cc
+	<iostream>
+	"blooddb.h"
+	"Donors.h"
+	"Bloodgrp.h"
+	<list>
+	<bits/stdc++.h>
+
+1601888947 ++.h>
+
+1601868109 source:c:\users\training\documents\minproj\bloodgrp.cc
+	<iostream>
+	"Bloodgrp.h"
+	"Donors.h"
+
+1601868104 source:c:\users\training\documents\minproj\donors.cc
+	<string.h>
+	<iostream>
+	"Donors.h"
+
+1601889039 source:c:\users\training\documents\minproj\main.cpp
+	<iostream>
+	"blooddb.h"
+
+1601889039 "
+
+1601894063 source:/home/user/Downloads/geethu-main/minproj/blooddb.cc
+	<iostream>
+	"blooddb.h"
+	"Donors.h"
+	"Bloodgrp.h"
+	<list>
+	<bits/stdc++.h>
+
+1601893790 /home/user/Downloads/geethu-main/minproj/blooddb.h
+	"Donors.h"
+	"Bloodgrp.h"
+	<list>
+	<iterator>
+
+1601894112 /home/user/Downloads/geethu-main/minproj/Donors.h
+	<string>
+	<iostream>
+
+1601894099 /home/user/Downloads/geethu-main/minproj/Bloodgrp.h
+	<iostream>
+	"Donors.h"
+
+1601889510 source:/home/user/Downloads/geethu-main/minproj/Bloodgrp.cc
+	<iostream>
+	"Bloodgrp.h"
+	"Donors.h"
+
+1601889510 source:/home/user/Downloads/geethu-main/minproj/Donors.cc
+	<string.h>
+	<iostream>
+	"Donors.h"
+
+1601894162 source:/home/user/Downloads/geethu-main/minproj/main.cpp
+	<iostream>
+	"blooddb.h"
+
